@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning to integrate voice recognicion with Artificial Inteligence...
+- 🌱 I’m currently learning to integrate voice recognition with Artificial Inteligence...
 <!--
 **edgarjaen/edgarjaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
